@@ -7,4 +7,6 @@ But just to be sure, a small explaination of the page.
 
 In this project the python file called: Societal_Challenge_Project_final.ipynb is the source and only file. 
 
-There are 3 other files needed for the data, these are also mentioned in the python file and are availible on the GitHub page. 
+There are 2 other files needed for the data, these are also mentioned in the python file and are availible on the GitHub page. 
+
+The map is to big and can be downloaded from the following webpage: https://www.pdok.nl/ogc-webservices/-/article/cbs-gebiedsindelingen#8787c7edcc0df04094d894518eedea62 (WMF 2022)
